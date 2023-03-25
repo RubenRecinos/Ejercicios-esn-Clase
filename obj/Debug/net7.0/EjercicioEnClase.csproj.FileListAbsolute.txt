@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\bin\Debug\net7.0\EjercicioEnClase.exe
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\bin\Debug\net7.0\EjercicioEnClase.deps.json
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\bin\Debug\net7.0\EjercicioEnClase.runtimeconfig.json
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\bin\Debug\net7.0\EjercicioEnClase.dll
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\bin\Debug\net7.0\EjercicioEnClase.pdb
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\EjercicioEnClase.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\EjercicioEnClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\EjercicioEnClase.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\EjercicioEnClase.AssemblyInfo.cs
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\EjercicioEnClase.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\EjercicioEnClase.dll
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\refint\EjercicioEnClase.dll
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\EjercicioEnClase.pdb
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\EjercicioEnClase.genruntimeconfig.cache
+C:\Users\pedro\source\repos\EjercicioEnClase\EjercicioEnClase\obj\Debug\net7.0\ref\EjercicioEnClase.dll
